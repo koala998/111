@@ -5,5 +5,11 @@ public class test01{
 		System.out.println("test01.java ****");
 		System.out.println("new line here");
 		System.out.println("new line here again");
+		System.out.println("new line here");
+		System.out.println("new line here again");
+		System.out.println("new line here");
+		System.out.println("new line here again");
+		System.out.println("new line here");
+		System.out.println("new line here again");
 	}
 }
